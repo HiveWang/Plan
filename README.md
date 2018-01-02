@@ -11,4 +11,3 @@ Every Year Plan
     > Java && Design Model
     > Scala for Spark
     > hadoop
-    
